@@ -99,7 +99,7 @@ I’m passionate about **system reliability, performance, automation, and develo
 | 7 | International Fraud Group Hackathon | 2022 | Analysis Hub | Top 6 |
 | 8 | Cloud Fest (Google Cloud) | 2022 | Hello Harvest | 🥈 2nd |
 | 9 | Rakathon (Rakuten) | 2022 | — | Top 10 |
-| 10 | Flipr hackathon X | 2022 | — | Top 50 |
+| 10 | Flipr hackathon X | 2022 | V-Class | Top 50 |
 |11 | Striking Balance (Weavy) | 2022 | Framebox | 🥉 3rd |
 |12 | Intel® oneAPI Hackathon | 2023 | Fresh Water Quality Detector | Top 15 |
 |13 | MongoDB Atlas Hack (GCP) | 2023 | Dragon Tales | Top 50 |
