@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Akhil Anil
 
 🚀 **Senior DevOps Engineer | Cloud, Kubernetes & Platform Engineering**  
-🇮🇳 Indian techie 🇲🇹 working and living in Malta
+🇮🇳 Indian techie working and living in Malta 🇲🇹
 
 ---
 
@@ -9,8 +9,8 @@
 
 🖥️ **Senior DevOps Engineer** at **FunderPro**, Malta  
 🎓 **B.Tech in Computer Science & Engineering** — APJ Abdul Kalam Technological University  
-✌️ Specialized in **Cloud, Kubernetes, Infrastructure as Code & CI/CD**  
-🧙 Member of **The-Inevitables ⚡** — building impactful tech together  
+🧑🏻‍💻 Specialized in **Cloud, Kubernetes, Infrastructure as Code & CI/CD**  
+📌 Member of [**The-Inevitables⚡**](https://github.com/The-inevitables) — building impactful tech together
 
 I design, automate, and operate **scalable, secure, and production-grade cloud platforms**.  
 I’m passionate about **system reliability, performance, automation, and developer experience**.
